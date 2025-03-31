@@ -1,0 +1,41 @@
+= 📌 Projet-PHP-Auth
+:toc: macro
+:toc-title: 📖 Table des matières
+
+🔥 API d'authentification pour le projet de gestion d'équipe de sport.  
+Elle gère les utilisateurs et génère des jetons 🔑 d'authentification pour accéder aux autres API.
+
+toc::[]
+
+== 🚀 Présentation
+
+Projet-PHP-Auth est une API REST conçue pour gérer l'authentification des utilisateurs dans un projet de gestion d'équipe de sport.  
+Elle offre les fonctionnalités suivantes :  
+
+✔️ Création et gestion des utilisateurs 👤  
+✔️ Authentification sécurisée avec JWT 🔐  
+✔️ Protection des routes API avec middleware de sécurité 🛡️  
+
+---
+
+== 📋 Prérequis
+
+Avant d'installer et d'utiliser ce projet, assure-toi d'avoir les éléments suivants :  
+
+* 🐘 **PHP 7.4 ou supérieur** (PHP 8 recommandé)  
+* 🗄️ **MySQL** (ou MariaDB)  
+* 🖥️ **Serveur local** (ex. : XAMPP, MAMP, WAMP ou Docker)  
+* 🔗 **Composer** (gestionnaire de dépendances PHP)  
+
+---
+
+== 🛠️ Installation et configuration
+
+Suivez ces étapes pour installer le projet sur votre machine :  
+
+=== 📥 1. Cloner le dépôt  
+
+Ouvre un terminal et exécute la commande suivante :  
+
+```bash
+git clone https://github.com/CThomassss/Projet-PHP-Auth.git
